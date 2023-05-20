@@ -1,2 +1,3 @@
-# NBTCommand
-NBTCommand MOD is a fabric mod that makes it easier for players to control nbt
+# ☕ NBTCommand ♥
+中文 | [English](https://github.com/llcyzzl/NBTCommand#readme)
+## 简介

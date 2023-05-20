@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "id": "NBTCommand",
-  "version": "0.1.0",
+  "id": "nbtcommand",
+  "version": "0.1.0-alpha",
   "name": "NBTCommand",
   "description": "NBTCommand MOD is a fabric mod that makes it easier for players to control nbt",
   "authors": [
@@ -11,7 +11,7 @@
     "repo": "https://github.com/llcyzzl/NBTCommand"
   },
   "license": "GPL-3.0",
-  "icon": "assets/NBTCommand/icon.png",
+  "icon": "assets/nbtcommand/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
