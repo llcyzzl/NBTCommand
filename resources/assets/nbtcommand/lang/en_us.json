@@ -1,0 +1,4 @@
+{
+  "commands.nbtcommand.message.copy": "click to copy",
+  "commands.nbtcommand.message.fail": "This item doesn't have NBT!"
+}

@@ -1,0 +1,4 @@
+{
+  "commands.nbtcommand.message.copy": "点击复制",
+  "commands.nbtcommand.message.fail": "这个物品没有NBT！"
+}
